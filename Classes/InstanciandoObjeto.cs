@@ -2,7 +2,7 @@
     Autoria dos alunos: Waldir Rugno Filho, Cleberson Nascimento, Paulo Ilarde, Everton Souza
 */
 using System; //importação do pacote system. 
-​
+
 namespace Exemplo_de_classes_veiculos
 {
     class InstanciaObjeto

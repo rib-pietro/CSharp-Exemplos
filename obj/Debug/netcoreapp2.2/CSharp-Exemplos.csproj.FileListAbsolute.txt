@@ -1,0 +1,3 @@
+/var/www/csharp/CSharp-Exemplos/obj/Debug/netcoreapp2.2/CSharp-Exemplos.csprojAssemblyReference.cache
+/var/www/csharp/CSharp-Exemplos/obj/Debug/netcoreapp2.2/CSharp-Exemplos.AssemblyInfoInputs.cache
+/var/www/csharp/CSharp-Exemplos/obj/Debug/netcoreapp2.2/CSharp-Exemplos.AssemblyInfo.cs
