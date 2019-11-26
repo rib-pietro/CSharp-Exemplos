@@ -44,6 +44,10 @@ namespace herancaEpolimorfismo
 		public virtual void acelerar() {
 			Console.WriteLine("vrummmm");
 		} 
+
+		public virtual void acelerar(double ganhoDePotencia) {
+			Console.WriteLine($"vrummmm a {ganhoDePotencia} por hora");
+		} 
 	}
 
 	public class Motocicleta : Veiculo {
